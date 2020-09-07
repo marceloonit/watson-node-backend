@@ -1,0 +1,23 @@
+{
+  "name": "watson-node-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibmcloud-projekte/watson-node-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ibmcloud-projekte/watson-node-backend/issues"
+  },
+  "homepage": "https://github.com/ibmcloud-projekte/watson-node-backend#readme",
+  "dependencies": {
+    "watson-developer-cloud": "^4.0.1"
+  }
+}
