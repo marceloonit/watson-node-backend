@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/ibmcloud-projekte/watson-node-backend#readme",
   "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "ibm-watson": "^5.7.0",
     "watson-developer-cloud": "^4.0.1"
   }
 }
